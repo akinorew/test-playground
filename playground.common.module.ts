@@ -1,4 +1,3 @@
-import { Overlay } from '@angular/cdk/overlay';
 import * as angular from 'angular';
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
